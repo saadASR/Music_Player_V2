@@ -1,10 +1,10 @@
 # Music player V3:
 1/ icone de l'application:
-![WhatsApp Image 2024-11-03 at 15 50 35_d5abd8c6](https://github.com/user-attachments/assets/f0d9c311-dddb-4fef-a250-92ecd8c11358)
+![WhatsApp Image 2024-11-03 at 15 50 35_d5abd8c6](https://github.com/user-attachments/assets/f0d9c311-dddb-4fef-a250-92ecd8c11358)\n
 2/ page principale:
-![WhatsApp Image 2024-11-03 at 15 50 35_dabd92b5](https://github.com/user-attachments/assets/365e1d42-a628-4cf6-90e0-f3b0c712bb27)
+![WhatsApp Image 2024-11-03 at 15 50 35_dabd92b5](https://github.com/user-attachments/assets/365e1d42-a628-4cf6-90e0-f3b0c712bb27) \n
 3/apres lancer une music:
-![WhatsApp Image 2024-11-03 at 15 50 35_6668f95d](https://github.com/user-attachments/assets/80656e2c-38e5-48ea-bb29-1f0b4e2e4f9e)
+![WhatsApp Image 2024-11-03 at 15 50 35_6668f95d](https://github.com/user-attachments/assets/80656e2c-38e5-48ea-bb29-1f0b4e2e4f9e) \n
 4/ apres lancer la music suivante:
 ![WhatsApp Image 2024-11-03 at 15 50 35_9709420a](https://github.com/user-attachments/assets/d3bb85c9-cc71-4ced-88eb-f6eccbefabaf)
 5/notification:
